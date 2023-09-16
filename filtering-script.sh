@@ -1,4 +1,5 @@
 #!/bin/bash
+#this script allows one to search the github trending history for specific keywords
 
 # Get a list of all folders in the current directory
 folders=$(find . -maxdepth 1 -type d)
